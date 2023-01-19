@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "654123967272",
+    "project_id": "coins-291a1",
+    "storage_bucket": "coins-291a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654123967272:android:52a987efdd6f7ffd44a61d",
+        "android_client_info": {
+          "package_name": "com.example.crypto_currency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654123967272-8jjrdum3qhejr6u00squ6mhcv6oqnpcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto_currency",
+            "certificate_hash": "40b75bf1c971e043ffd2dc20414bc6705e9b74ed"
+          }
+        },
+        {
+          "client_id": "654123967272-1d1qgo667lj0gdgktoo94k3k1isph8ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgsLZVFYgzAPikxVH1sGN4D9d3-hfIL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654123967272-1d1qgo667lj0gdgktoo94k3k1isph8ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654123967272-1mu9k9k6siaapeuro6glb522kcvig5pq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coins"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
